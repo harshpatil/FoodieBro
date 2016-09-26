@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodieBro</string>
+    <string name="dishName">Dish Name</string>
+    <string name="price">Price</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="enter">Enter</string>
+</resources>
