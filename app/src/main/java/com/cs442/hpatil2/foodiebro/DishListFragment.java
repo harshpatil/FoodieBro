@@ -36,7 +36,7 @@ public class DishListFragment extends ListFragment {
         dishListListener.onDishClick(position);
     }
 
-        @Override
+    @Override
     public void onAttach(Activity activity) {
         super.onAttach(activity);
         try {
